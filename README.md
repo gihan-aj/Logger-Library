@@ -1,2 +1,3 @@
-Logger Library
-#Simple loggger to .txt
+# Logger Library
+
+## Simple loggger to .txt
