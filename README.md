@@ -1,2 +1,2 @@
-##Logger Library
+Logger Library
 #Simple loggger to .txt
