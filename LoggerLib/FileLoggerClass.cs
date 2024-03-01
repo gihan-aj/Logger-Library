@@ -55,7 +55,7 @@
                     }
 
                     // Logginfg errors in seperate .txt
-                    if (level == "ERROR")
+                    if (level == "[ERROR]")
                     {
                         string errorFilePath = Path.Combine(loggingPath, $"LOG-{level}-{date}.txt");
 
@@ -74,7 +74,7 @@
                     }
 
                     // Logginfg errors in seperate .txt
-                    if (level == "ERROR")
+                    if (level == "[ERROR]")
                     {
                         string errorFilePath = Path.Combine(loggingPath, $"LOG-{level}-{date}.txt");
 

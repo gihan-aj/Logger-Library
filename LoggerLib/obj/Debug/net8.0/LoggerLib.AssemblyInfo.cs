@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoggerLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5842c6e833053f415e43897694477f204c7bc18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df1bfecaf049d02e6a27af757cc268d1c958a96d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoggerLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoggerLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
