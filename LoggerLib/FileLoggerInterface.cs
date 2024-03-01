@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LoggerLib
 {
-    internal interface IFileLogger : ILogger
+    public interface IFileLogger : ILogger
     {
         void SetFilePath(string path);
     }

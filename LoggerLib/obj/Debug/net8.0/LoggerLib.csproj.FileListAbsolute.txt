@@ -9,3 +9,4 @@ C:\Users\Gihan\Documents\LoggerLib\LoggerLib\obj\Debug\net8.0\LoggerLib.dll
 C:\Users\Gihan\Documents\LoggerLib\LoggerLib\obj\Debug\net8.0\refint\LoggerLib.dll
 C:\Users\Gihan\Documents\LoggerLib\LoggerLib\obj\Debug\net8.0\LoggerLib.pdb
 C:\Users\Gihan\Documents\LoggerLib\LoggerLib\obj\Debug\net8.0\ref\LoggerLib.dll
+C:\Users\Gihan\Documents\LoggerLib\LoggerLib\obj\Debug\net8.0\LoggerLib.sourcelink.json

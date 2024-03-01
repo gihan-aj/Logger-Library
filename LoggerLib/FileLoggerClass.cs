@@ -25,7 +25,7 @@
             LogToTXT("[ERROR]", msg);
         }
 
-        public void LogToTXT(string level, string msg)
+        private void LogToTXT(string level, string msg)
         {
             DateTime timeStamp = DateTime.Now;
             string year = timeStamp.ToString("yyyy");
