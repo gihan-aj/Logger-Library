@@ -20,20 +20,20 @@ This logger library is designed to facilitate the logging of information, warnin
 
 ## Usage ##
 1. Import the logger library into your project.
-   ```
+   ```C#
    using LoggerLib;
    ```
 2. Inject the logger service into your service container.
-   ```
+   ```C#
    builder.Services.AddSingleton<IFileLogger, Logger>();
    ```
 3. (Optional) Set a custom file path for the logs.
-   ```
+   ```C#
    var logger = serviceProvider.GetService<ILogger>();
    logger.SetFilePath("custom/path/to/logs");
    ```
 4. Use the logging methods to log messages.
-   ```
+   ```C#
    logger.LogInfo("This is an informational message.");
    logger.LogWarning("This is a warning message.");
    logger.LogError("This is an error message.");
