@@ -45,7 +45,7 @@ This logger library is designed to facilitate the logging of information, warnin
 * `LogError(string message)`: Logs an error message.
 
 ## Example ##
-```
+```C#
 using LoggerLibrary;
 using Microsoft.Extensions.DependencyInjection;
 
